@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-프로필 수정 테스트
+![헤더이미지](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=조준환의%20깃허브%20&textBg=false&fontColor=black)
